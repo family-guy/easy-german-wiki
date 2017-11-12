@@ -1,7 +1,7 @@
 ## Description
 
-Wiki for [here.](https://github.com/family-guy/easy-german)
+Project wiki for [here.](https://github.com/family-guy/easy-german)
 
 ## License
 
-[MIT.](http://opensource.org/licenses/MIT)
+[MIT](http://opensource.org/licenses/MIT)
