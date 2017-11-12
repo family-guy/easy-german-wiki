@@ -1,0 +1,38 @@
+name: Easy German Python Wiki
+version: 3.0.3
+url: https://pypi.python.org/pypi/easygerman
+future: true
+
+author:
+  name: Guy King
+  email: guy@zorncapital.com
+
+baseurl: /easy-german
+
+builds:
+  - Any
+  - Static
+  - Jekyll
+
+plans:
+  - Free
+  - Basic
+  - Pro
+
+hostings:
+  - Any
+  - CloudCannon
+
+collections:
+  overview:
+    title: Overview
+    permalink: /overview/:title/
+    active_prefix: overview
+    output: true
+    order: 1
+
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: docs
