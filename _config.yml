@@ -7,7 +7,7 @@ author:
   name: Guy King
   email: guy@zorncapital.com
 
-baseurl: /easy-german
+baseurl: /easy-german-wiki
 
 builds:
   - Any
