@@ -12,7 +12,7 @@
 
 - `bundle install`
 
-- `bundle exec jekyll serve --baseurl=''
+- `bundle exec jekyll serve --baseurl=''`
 
 - Go to `localhost:4000` in the browser
 
